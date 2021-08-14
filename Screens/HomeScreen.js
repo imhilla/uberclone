@@ -13,8 +13,8 @@ export default function HomeScreen() {
             uri: 'https://links.papareact.com/gzs',
           }}
         />
+        <NavOptions />
       </View>
-      <NavOptions />
     </View>
   )
 }
